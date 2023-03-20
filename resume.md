@@ -1,4 +1,4 @@
- Resume of Robert J. Liebsch
+Resume of Robert J. Liebsch
 1320 Buckhorn Cir, Sierra Vista, AZ 85635ᆞ415.812.5468ᆞrobertliebsch@gmail.com
 
 Experienced Information Technology Manager and Systems Engineer with a demonstrated history of working in the management consulting industry providing excellent customer first experiences. Skilled in JAMF/MEM for MDM, Cloud/hybrid infrastructure, macOS, Windows, ChromeOS, iOS, and Android. Strong background in security, disaster recovery, and precise documentation. Experienced in setting and meeting budget, and managing costs.
