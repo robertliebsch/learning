@@ -1,9 +1,3 @@
-terraform {
-  required_version = ">=0.11"
-  }
-provider "azurerm" {
-  
-}
   resource "random_pet" "rg_name" {
   prefix = var.resource_group_name_prefix
 }
