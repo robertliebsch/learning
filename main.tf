@@ -1,9 +1,5 @@
 terraform {
   required_version = ">=0.11"
-
-  backend "azurerm" {
-    features {}
-  }
   }
   resource "random_pet" "rg_name" {
   prefix = var.resource_group_name_prefix
